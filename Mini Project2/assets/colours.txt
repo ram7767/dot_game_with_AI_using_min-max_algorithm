@@ -1,0 +1,11 @@
+(255, 255, 255) - white
+(0, 0, 0) - black
+(128, 204, 255) - skyblue
+(255, 51, 153) - babypink
+(153, 51, 255) - voilet
+(0, 230, 230) - skyblue(varient)
+(0, 0, 255) - darkblue
+(255, 102, 153) - lightred
+(255, 102, 153) - lightgreen
+(204, 0, 102) - pink
+(0, 51, 0) - gray
